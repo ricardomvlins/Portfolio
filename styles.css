@@ -55,6 +55,7 @@ section {
 }
 
 .sobre, .contato {
+    padding-top: 25px;
     max-width: 800px;
     margin: 0 auto;
 }
